@@ -1,2 +1,2 @@
-tensorflow==2.3.0
+tensorflow==2.7.2
 tensorflow-hub==0.8.0
